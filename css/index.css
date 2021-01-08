@@ -1,0 +1,35 @@
+#gray-background{
+    background-color:#808080;
+    height: 100%;
+}
+#black-background{
+    background-color:#1D1D1D;
+    height: 95%;
+    border-radius: 10px;
+}
+#searchbar{
+    height: 60%;
+
+    
+}
+input{
+    margin-top: -0.5vh;
+    height: 4vh;
+    background-color: white;
+    width: 85%;
+    border-radius: 10px;
+  
+}
+.input:focus{
+    outline:none;
+    border:none;
+}
+.img-button{
+    margin-top:-0.5vh;
+}
+a{
+    font-size: large;
+}
+nav{
+    
+}
