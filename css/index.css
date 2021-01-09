@@ -1,10 +1,12 @@
+
 #gray-background{
     background-color:#808080;
-    height: 100%;
+    
+   
 }
 #black-background{
     background-color:#1D1D1D;
-    height: 95%;
+    height: 100%;
     border-radius: 10px;
 }
 #searchbar{
@@ -14,7 +16,7 @@
 }
 input{
     margin-top: -0.5vh;
-    height: 4vh;
+   
     background-color: white;
     width: 85%;
     border-radius: 10px;
@@ -22,14 +24,49 @@ input{
 }
 .input:focus{
     outline:none;
-    border:none;
+    
 }
 .img-button{
     margin-top:-0.5vh;
 }
 a{
     font-size: large;
+  
 }
-nav{
+#col-nav{
+  
+   margin-top: -1.6vh;
+}
+.black-tone{
+    background-color:#1D1D1D;  
+}
+.big-a{
+    width:100%;
+}
+#big-pontiac{
+    font-size:12vh;
+   
     
 }
+#gto{
+    font-size:5vh;
+  
+    margin-top: -5vh;
+}
+#pontiac-image{
+  margin-left: 10vh;
+   
+}
+.feature-text{
+font-size:x-large;
+margin-bottom:-0.5vh;
+}
+.feature-text-bold{
+    font-size:x-large;
+    font-weight: bold;
+ }
+
+ #bottom{
+    margin-top: 13vh;
+    
+ }
